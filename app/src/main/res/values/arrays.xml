@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="latitude_setting">
+        <item>Middle of the night</item>
+        <item>1/7 of the night</item>
+        <item>"Angle-based method"</item>
+    </array>
+    <array name="juristic_setting">
+        <item>"Standard(Shafi,Maliki,Hanbali)"</item>
+        <item>"Hanafi"</item>
+    </array>
+    <array name="convention_settings">
+        <item>"Shia Ithna Ashari(Jafari)\nFajr:16.0 / Isha'a:18.0"\n</item>
+        <item>"Islamic University,Karachi\nFajr:18.0 / Isha'a:18.0"\n</item>
+        <item>"North Ameraica(ISNA)\nFajr:15.0 / Isha'a:18.0"\n</item>
+        <item>"Muslim World League(MWL)\nFajr:18.0 / Isha'a:18.0"\n</item>
+        <item>"Umm Al-Qura,Makkah\nFajr:18.5 / Isha'a:90 min"\n</item>
+        <item>"University of Tehran\nFajr:17.7 / Isha'a:18.0"\n</item>
+        <item>"Egyptian General Authority(bis)\nFajr:20.0 / Isha'a:18.0"\n</item>
+    </array>
+
+
+</resources><!--KARACHIpublic static final int ISNA = 2; // Islamic Society of North America (ISNA)public static final int MWL = 3; //Muslim World League (MWL)public static final int MAKKAH = 4; // Umm al-Qura, MAKKAHpublic static final int EGYPT = 5; // Egyptian General Authority of Surveypublic static final int CUSTOM = 7; // CUSTOM Settingpublic static final int TEHRAN-->
